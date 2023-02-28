@@ -21,13 +21,12 @@ This is a progressive web app (PWA) text editor, which allows you to create, edi
 
 ## Installation
 
-
+You'll need to npm install (or npm i) before putting npm run start in the terminal to run the application.
 
 ## Usage
 To use this app, simply open it in a web browser on any device. Once you open the app, you can create a new text file by clicking on the "New file" button, or open an existing file by clicking on the "Open file" button and selecting a file from your device or cloud storage service. To edit a file, simply type in the text editor and to save a file, click on the "Save" button.
 
 ## Credits
-
 
 
 N/A
