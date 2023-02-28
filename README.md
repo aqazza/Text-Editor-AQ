@@ -1,5 +1,5 @@
 # 19 PWA: Text Editor AQ
-Deployed site 
+[Deployed site](https://pwa-text-editor-aq.herokuapp.com/)
 
 
 [Repo Link](https://github.com/aqazza/Text-Editor-AQ)
